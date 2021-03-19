@@ -1,2 +1,6 @@
 Line1 from Dev1.
+<<<<<<< HEAD
 From Dev1.
+=======
+From Dev2.
+>>>>>>> e27167af97791638be3a3db08616f5a5693d87df
